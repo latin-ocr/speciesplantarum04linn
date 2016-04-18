@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./speciesplantarum04linn_0003.png"; bbox 0 0 1725 3044; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 603 1157 1636 1268">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 603 1157 1636 1268">
+     <span class='ocr_line' id='line_1_1' title="bbox 603 1157 1636 1202; baseline -0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 603 1157 745 1202; x_wconf 89' lang='lat' dir='ltr'>THIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 772 1158 941 1202; x_wconf 89' lang='lat' dir='ltr'>BOOK</span> <span class='ocrx_word' id='word_1_3' title='bbox 966 1157 1135 1201; x_wconf 90' lang='lat' dir='ltr'>MUST</span> <span class='ocrx_word' id='word_1_4' title='bbox 1159 1157 1286 1200; x_wconf 89' lang='lat' dir='ltr'><strong>NOT</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1312 1158 1391 1199; x_wconf 92' lang='grc' dir='ltr'><strong>ΒΕ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1419 1157 1636 1199; x_wconf 92' lang='grc' dir='ltr'><strong>ΤΑΚΕΝ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 636 1224 1608 1268; baseline -0.002 0"><span class='ocrx_word' id='word_1_7' title='bbox 636 1225 809 1268; x_wconf 89' lang='lat' dir='ltr'><strong>FROM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 833 1224 958 1267; x_wconf 88' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 987 1224 1264 1267; x_wconf 88' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1290 1224 1608 1268; x_wconf 91' lang='lat' dir='ltr'><strong>BUILDING.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 626 2927 778 2956">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 626 2927 778 2956">
+     <span class='ocr_line' id='line_1_3' title="bbox 626 2927 778 2956; baseline -0.013 -2"><span class='ocrx_word' id='word_1_11' title='bbox 626 2927 778 2956; x_wconf 78' lang='lat' dir='ltr'><strong>20Ms9-74</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
